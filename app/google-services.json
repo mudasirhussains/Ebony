@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959509061714",
+    "project_id": "ebonyflirt-868af",
+    "storage_bucket": "ebonyflirt-868af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959509061714:android:66e03c89942c814540ff8b",
+        "android_client_info": {
+          "package_name": "com.ebony.flirts.meet.black.women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959509061714-rrmafcebfhij0firjl2ipka81r8j7d99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrn3bTNr_gKqt9OPxiHb-tmKUyh-1_iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959509061714-rrmafcebfhij0firjl2ipka81r8j7d99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

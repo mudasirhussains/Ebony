@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ebony flirts</string>
+    <string name="no_internet">No Internet, Please connect!</string>
+    <string name="please_wait">Please wait</string>
+    <string name="back_again_to_exit">Click again to exit</string>
+</resources>
